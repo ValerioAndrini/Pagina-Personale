@@ -1,0 +1,39 @@
+
+#testo1{
+  background-color: white;
+}
+#testo2{
+  background-color: hsl(170, 0%, 90%);
+  font-family: Arial;
+}
+
+h2{
+  margin-left: 15%;
+  margin-top: 5%;
+  max-width: 33em;
+}
+p {
+  margin-left: 15%;
+  margin-top: 2%;
+  max-width: 33em;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.carouselExampleIndicators{
+  width: 50%;
+  height: 50%;
+}
+
+
+html {
+background: url(img/SfondoChiaro.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+body{ background-color: transparent; }
